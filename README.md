@@ -6,7 +6,7 @@
 
 ![Airbnb-Success-Story-StartupTalky-1](https://github.com/user-attachments/assets/b1b71a0a-e585-45dc-ab27-6effa04d74bc)
 
-# Analyzing the Airbnb NYC 2019 Listings 🏨
+# Analyzing the Airbnb NYC Listings Market 🏨
 
 ## Project Overview 
 In this project, we will conduct an in-depth exploratory data analysis on the Airbnb NYC 2019 dataset to uncover trends and patterns in rental listings. Additionally, we will create a dynamic dashboard that presents key insights in an interactive and visually engaging format, enabling users to explore the data efficiently.
