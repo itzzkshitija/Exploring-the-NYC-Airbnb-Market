@@ -6,7 +6,7 @@
 
 ![Airbnb-Success-Story-StartupTalky-1](https://github.com/user-attachments/assets/b1b71a0a-e585-45dc-ab27-6effa04d74bc)
 
-# Analyzing the Airbnb NYC 2019 Market 🏨
+# Analyzing the Airbnb NYC 2019 Listings 🏨
 # Introduction 📍
 Airbnb is an online marketplace connecting people who want to rent out their homes with people looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide. For hosts, it's a way to earn money while protecting their property from potential damage. However, for guests, it's a risky venture that they should avoid.
 
