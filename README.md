@@ -54,15 +54,15 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
 
 ## Questions addressed in the analysis
 <ul>
-  <li>✅Which are the top 10 host ids with the most bookings?</li>
+  <li>✅Which are the top 10 host ids with the most listings?</li>
   <li>✅Which are the unique neighborhoods in the dataset?</li>
-  <li>✅What are the top 10 neighborhoods with the most property bookings?</li>
-  <li>✅What are the top 10 host names with the most bookings?</li>
+  <li>✅What are the top 10 neighborhoods with the most property listings?</li>
+  <li>✅What are the top 10 host names with the most listings?</li>
   <li>✅Which are the unique neighborhood_groups in the dataset?</li>
-  <li>✅What are the property booking counts for each neighborhood group?</li>
+  <li>✅What are the property listing counts for each neighborhood group?</li>
   <li>✅Which neighborhoods belong to each neighborhood group?</li>
   <li>✅What types of rooms are available in the dataset?</li>
-  <li>✅Which room type contributes to the highest number of bookings in NYC?</li>
+  <li>✅Which room type contributes to the highest number of listings in NYC?</li>
   <li>✅What is the average price of all listings?</li>
   <li>✅How many hosts have more than one listing?</li>
   <li>✅Which neighborhood has the highest average price?</li>
@@ -73,5 +73,25 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
   <li>✅What is the average number of listings per host?</li>
   <li>✅How many listings are there per neighborhood group by room type?</li>
   <li>✅What are the top 10 most reviewed listings?</li>
-  <li>✅What is the average price for listings with availability less than 100 days?</li>
+  <li>✅What is the average price for listings with availability of less than 100 days?</li>
 </ul>
+
+## Key Insights 📊
+
+1. The Airbnb NYC 2019 dataset is considered to be a very rich dataset to explore and uncover trends and patterns in rental listings. The dataset contains 16 attributes and 48895 rows in total. We analyzed the dataset using Python and data visualization libraries and uncovered useful insights. 
+
+2. Firstly we identified the top 10 hosts with the highest number of rental listings on Airbnb. The host with the host ID 219517861 is recorded with the highest number of property listings on Airbnb with a total of 327 listings.
+
+3. It was seen that throughout the entire year, only 1295 listings were available. Data also reveals that the average number of listings per host is just 1 listing, suggesting that most hosts manage only a single property. 
+ 
+4. Our dataset includes 221 unique neighborhoods, with Williamsburg standing out as the neighborhood with the most property listings, totaling 3,920 listings. It is followed by Bedford-Stuyvesant and Harlem, with 3,714 and 2,658 listings, respectively. Fort Wadsworth has the highest average price, at $800.
+
+5. We analyzed the top 10 hosts to identify the one with the most property listings on Airbnb. Our findings show that Michael holds the top spot with 417 listings, making him the host with the highest number of properties. He is followed by David, who has the second-highest number of listings at 403. Additionally, our data reveals that 5,154 hosts have more than one listing on Airbnb.
+
+6. The dataset includes five distinct neighborhood groups: Brooklyn, Manhattan, Queens, Staten Island, and the Bronx. It was found that Manhattan has the highest number of property listings on Airbnb, with a total of 21,661 listings, while Staten Island has the fewest property listings. The data shows that Manhattan has the highest average property prices, making it the most expensive area to live in NYC. In contrast, the Bronx has the lowest average property prices, making it the most affordable area in the city. Whereas Queens and Staten Island appear to have similar property prices.
+
+7. The Airbnb NYC listings primarily consist of three room categories: Private room, Entire home/apt, and Shared room. Among these, the Entire home/apt has the highest number of listings, making it the most common room type, while the Shared room has the fewest listings. The average price for all listings is $152.72. 
+
+8. On average, Airbnb listings in this dataset require a minimum stay of 7 nights. This indicates that, generally, hosts prefer longer bookings, possibly to reduce the frequency of turnover and related maintenance tasks.
+
+9. According to the dataset, there are a total of 10,052 property listings on Airbnb that have not received a single review. This means that these listings have either not been booked by guests or, if they have been, no feedback has been provided by those who stayed. This lack of reviews could impact the visibility of these listings to potential guests, as reviews often play a significant role in helping users decide on accommodations.
