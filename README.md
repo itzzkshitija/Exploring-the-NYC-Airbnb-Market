@@ -51,3 +51,24 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
 <li><b>availablity_365:</b> Number of days the given listing is available for booking</li>
 
 </ul>
+
+## Questions addressed in the analysis
+<ul>
+  <li>✅Which are the top 10 host ids with the most bookings?</li>
+  <li>✅Which are the unique neighborhoods in the dataset?</li>
+  <li>✅What are the top 10 neighborhoods with the most property bookings?</li>
+  <li>✅What are the top 10 host names with the most bookings?</li>
+  <li>✅Which are the unique neighborhood_groups in the dataset?</li>
+  <li>✅What are the property booking counts for each neighborhood group?</li>
+  <li>✅Which neighborhoods belong to each neighborhood group?</li>
+  <li>✅What types of rooms are available in the dataset?</li>
+  <li>✅Which room type contributes to the highest number of bookings in NYC?</li>
+  <li>✅What is the average price of all listings?</li>
+  <li>✅How many hosts have more than one listing?</li>
+  <li>✅Which neighborhood has the highest average price?</li>
+  <li>✅How many listings are available throughout the year?</li>
+  <li>✅What is the average minimum number of nights required for a stay?</li>
+  <li>✅How many listings have never been reviewed?</li>
+  <li>✅What is the average price for each neighborhood group, and which neighborhood group has the highest average price?</li>
+  
+</ul>
