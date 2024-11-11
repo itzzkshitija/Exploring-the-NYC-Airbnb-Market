@@ -6,6 +6,8 @@
 
 ![Airbnb-Success-Story-StartupTalky-1](https://github.com/user-attachments/assets/b1b71a0a-e585-45dc-ab27-6effa04d74bc)
 
+[Download EDA File from here](https://github.com/itzzkshitija/Exploring-the-NYC-Airbnb-Market/blob/main/EDA.ipynb)
+
 # Analyzing the Airbnb NYC Listings Market 🏨
 
 ## Project Overview 
@@ -19,6 +21,7 @@ For this project, we are analyzing Airbnb’s New York City(NYC) data for 2019. 
 Data analysis on thousands of listings provided through Airbnb is a crucial factor for the company. Our main objective is to find out the key metrics influencing the listing of properties on the platform. For this, we will explore and visualize the dataset from Airbnb in NYC using basic exploratory data analysis (EDA) techniques. We have found out the distribution of every Airbnb listing based on their location, including their price range, room type, listing name, and other related factors. We have analyzed this dataset from different angles and developed interesting insights. This can help in making strategic data-driven decisions by the marketing team, finance team, and technical team of Airbnb.
 
 ## Dataset
+[Download Dataset from here](https://github.com/itzzkshitija/Exploring-the-NYC-Airbnb-Market/blob/main/Airbnb.csv)
 <ul>
 <li><b>Id :</b> Unique for each Property Listing.</li>
 
