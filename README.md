@@ -11,7 +11,7 @@
 # Analyzing the Airbnb NYC Listings Market 🏨
 
 ## Project Overview 
-In this project, we will conduct an in-depth exploratory data analysis on the Airbnb NYC 2019 dataset to uncover trends and patterns in rental listings. Additionally, we will create a dynamic dashboard that presents key insights in an interactive and visually engaging format, enabling users to explore the data efficiently.
+In this project, we will conduct an in-depth exploratory data analysis on the Airbnb NYC 2019 dataset to uncover trends and patterns in rental listings. 
 
 ## Background 
 Airbnb is an online marketplace connecting people who want to rent out their homes with people looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide. For hosts, it's a way to earn money while protecting their property from potential damage. However, for guests, it's a risky venture that they should avoid.
