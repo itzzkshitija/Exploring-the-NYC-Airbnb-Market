@@ -70,5 +70,8 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
   <li>✅What is the average minimum number of nights required for a stay?</li>
   <li>✅How many listings have never been reviewed?</li>
   <li>✅What is the average price for each neighborhood group, and which neighborhood group has the highest average price?</li>
-  
+  <li>✅What is the average number of listings per host?</li>
+  <li>✅How many listings are there per neighborhood group by room type?</li>
+  <li>✅What are the top 10 most reviewed listings?</li>
+  <li>✅What is the average price for listings with availability less than 100 days?</li>
 </ul>
