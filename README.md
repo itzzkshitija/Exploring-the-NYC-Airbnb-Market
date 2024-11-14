@@ -8,9 +8,13 @@
 [Download EDA File from here](https://github.com/itzzkshitija/Exploring-the-NYC-Airbnb-Market/blob/main/EDA.ipynb)
 ## Table of Contents
 [Project Overview](#project-overview)
+
 [Background](#background)
+
 [Dataset](#dataset)
+
 [Questions Addressed in the analysis](#questions-addressed-in-the-analysis)
+
 [Key Insights](#key-insights)
 
 ## Project Overview 
