@@ -9,6 +9,9 @@
 
 
 # Analyzing the Airbnb NYC Listings Market 🏨
+
+# `Python🐍`
+
 [Download EDA File from here](https://github.com/itzzkshitija/Exploring-the-NYC-Airbnb-Market/blob/main/EDA.ipynb)
 ## Table of Contents
 [Project Overview](#project-overview)
