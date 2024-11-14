@@ -19,7 +19,7 @@
 <br>
 [Questions Addressed in the analysis](#questions-addressed-in-the-analysis)
 <br>
-[Key Insights](#key-insights)
+[Summary of Insights](#summary-of-insights)
 
 ## Project Overview 
 In this project, we will conduct an in-depth exploratory data analysis on the Airbnb NYC 2019 dataset to uncover trends and patterns in rental listings. 
