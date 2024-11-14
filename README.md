@@ -107,7 +107,7 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
   
 *What is the average price for listings with less than 100 days of availability?*
 
-## Key Insights
+## Summary of Insights
 
 1. The Airbnb NYC 2019 dataset is considered to be a very rich dataset for exploring and uncovering trends and patterns in rental listings. The dataset contains 16 attributes and 48895 rows in total. We analyzed the dataset using Python and data visualization libraries and uncovered useful insights. 
 
