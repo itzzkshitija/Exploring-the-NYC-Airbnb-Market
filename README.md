@@ -4,11 +4,14 @@
   </a>
 </div>
 
-![Airbnb-Success-Story-StartupTalky-1](https://github.com/user-attachments/assets/b1b71a0a-e585-45dc-ab27-6effa04d74bc)
-
-[Download EDA File from here](https://github.com/itzzkshitija/Exploring-the-NYC-Airbnb-Market/blob/main/EDA.ipynb)
-
 # Analyzing the Airbnb NYC Listings Market 🏨
+[Download EDA File from here](https://github.com/itzzkshitija/Exploring-the-NYC-Airbnb-Market/blob/main/EDA.ipynb)
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Background](#background)
+- [Dataset](#dataset)
+- [Questions Addressed in the analysis](#questions-addressed-in-the-analysis)
+- [Key Insights](#key-insights)
 
 ## Project Overview 
 In this project, we will conduct an in-depth exploratory data analysis on the Airbnb NYC 2019 dataset to uncover trends and patterns in rental listings. 
@@ -98,7 +101,7 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
   ✅What is the average price for listings with less than 100 days of availability?
 </ul>
 
-## Key Insights 📊
+## Key Insights
 
 1. The Airbnb NYC 2019 dataset is considered to be a very rich dataset for exploring and uncovering trends and patterns in rental listings. The dataset contains 16 attributes and 48895 rows in total. We analyzed the dataset using Python and data visualization libraries and uncovered useful insights. 
 
