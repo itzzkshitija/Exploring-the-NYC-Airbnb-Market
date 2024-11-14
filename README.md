@@ -67,45 +67,45 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
 </ul>
 
 ## Questions addressed in the analysis
-Which are the top 10 host IDs with the most listings?
+*Which are the top 10 host IDs with the most listings?*
 
-Which are the unique neighborhoods in the dataset?
+*Which are the unique neighborhoods in the dataset?*
   
-What are the top 10 neighborhoods with the most property listings?
+*What are the top 10 neighborhoods with the most property listings?*
   
-What are the top 10 host names with the most listings?
+*What are the top 10 host names with the most listings?*
   
-Which are the unique neighborhood groups in the dataset?
+*Which are the unique neighborhood groups in the dataset?*
   
-What are the property listing counts for each neighborhood group?
+*What are the property listing counts for each neighborhood group?*
   
-Which neighborhoods belong to each neighborhood group?
+*Which neighborhoods belong to each neighborhood group?*
   
-What types of rooms are available in the dataset?
+*What types of rooms are available in the dataset?*
   
-Which room type contributes to the highest number of listings in NYC?
+*Which room type contributes to the highest number of listings in NYC?*
   
-What is the average price of all listings?
+*What is the average price of all listings?*
   
-How many hosts have more than one listing?
+*How many hosts have more than one listing?*
   
-Which neighborhood has the highest average price?
+*Which neighborhood has the highest average price?*
   
-How many listings are available throughout the year?
+*How many listings are available throughout the year?*
   
-What is the average minimum number of nights required for a stay?
+*What is the average minimum number of nights required for a stay?*
   
-How many listings have never been reviewed?
+*How many listings have never been reviewed?*
   
-What is the average price for each neighborhood group, and which neighborhood group has the highest average price?
+*What is the average price for each neighborhood group, and which neighborhood group has the highest average price?*
   
-What is the average number of listings per host?
+*What is the average number of listings per host?*
   
-How many listings per neighborhood group by room type?
+*How many listings per neighborhood group by room type?*
   
-What are the top 10 most reviewed listings?
+*What are the top 10 most reviewed listings?*
   
-What is the average price for listings with less than 100 days of availability?
+*What is the average price for listings with less than 100 days of availability?*
 
 ## Key Insights
 
