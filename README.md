@@ -57,31 +57,50 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
 
 ## Questions addressed in the analysis
 <ul>
-  <li>✅Which are the top 10 host ids with the most listings?</li>
-  <li>✅Which are the unique neighborhoods in the dataset?</li>
-  <li>✅What are the top 10 neighborhoods with the most property listings?</li>
-  <li>✅What are the top 10 host names with the most listings?</li>
-  <li>✅Which are the unique neighborhood_groups in the dataset?</li>
-  <li>✅What are the property listing counts for each neighborhood group?</li>
-  <li>✅Which neighborhoods belong to each neighborhood group?</li>
-  <li>✅What types of rooms are available in the dataset?</li>
-  <li>✅Which room type contributes to the highest number of listings in NYC?</li>
-  <li>✅What is the average price of all listings?</li>
-  <li>✅How many hosts have more than one listing?</li>
-  <li>✅Which neighborhood has the highest average price?</li>
-  <li>✅How many listings are available throughout the year?</li>
-  <li>✅What is the average minimum number of nights required for a stay?</li>
-  <li>✅How many listings have never been reviewed?</li>
-  <li>✅What is the average price for each neighborhood group, and which neighborhood group has the highest average price?</li>
-  <li>✅What is the average number of listings per host?</li>
-  <li>✅How many listings are there per neighborhood group by room type?</li>
-  <li>✅What are the top 10 most reviewed listings?</li>
-  <li>✅What is the average price for listings with availability of less than 100 days?</li>
+  ✅Which are the top 10 host IDs with the most listings?
+  
+  ✅Which are the unique neighborhoods in the dataset?
+  
+  ✅What are the top 10 neighborhoods with the most property listings?
+  
+  ✅What are the top 10 host names with the most listings?
+  
+  ✅Which are the unique neighborhood groups in the dataset?
+  
+  ✅What are the property listing counts for each neighborhood group?
+  
+  ✅Which neighborhoods belong to each neighborhood group?
+  
+  ✅What types of rooms are available in the dataset?
+  
+  ✅Which room type contributes to the highest number of listings in NYC?
+  
+  ✅What is the average price of all listings?
+  
+  ✅How many hosts have more than one listing?
+  
+  ✅Which neighborhood has the highest average price?
+  
+  ✅How many listings are available throughout the year?
+  
+  ✅What is the average minimum number of nights required for a stay?
+  
+  ✅How many listings have never been reviewed?
+  
+  ✅What is the average price for each neighborhood group, and which neighborhood group has the highest average price?
+  
+  ✅What is the average number of listings per host?
+  
+  ✅How many listings per neighborhood group by room type?
+  
+  ✅What are the top 10 most reviewed listings?
+  
+  ✅What is the average price for listings with less than 100 days of availability?
 </ul>
 
 ## Key Insights 📊
 
-1. The Airbnb NYC 2019 dataset is considered to be a very rich dataset to explore and uncover trends and patterns in rental listings. The dataset contains 16 attributes and 48895 rows in total. We analyzed the dataset using Python and data visualization libraries and uncovered useful insights. 
+1. The Airbnb NYC 2019 dataset is considered to be a very rich dataset for exploring and uncovering trends and patterns in rental listings. The dataset contains 16 attributes and 48895 rows in total. We analyzed the dataset using Python and data visualization libraries and uncovered useful insights. 
 
 2. Firstly we identified the top 10 hosts with the highest number of rental listings on Airbnb. The host with the host ID 219517861 is recorded with the highest number of property listings on Airbnb with a total of 327 listings.
 
